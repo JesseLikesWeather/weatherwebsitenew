@@ -5,8 +5,6 @@
 <h3>Newest Updates</h3>
 
 
-<h2>Added Puerto Rico. It's spanish, mainly for the reigons native language.</h2>
+<h3>Offically added archived WX scan and WS4000  Emulations page!</h3>
 
-<h2>Blogs offically return. Go to a reigon and scroll down!</h2>
-
-<h3> Last Updated: 6/12/23 7:27 PM EDT</h3>
+<h1>Last updated: 6/21/23 9:33 AM EDT</h1>
