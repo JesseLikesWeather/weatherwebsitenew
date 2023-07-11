@@ -5,6 +5,7 @@
 <h3>Newest Updates</h3>
 
 
-<h3>Offically added archived WX scan and WS4000  Emulations page!</h3>
+<h3>New "My Weather" page added! Including a dark theme!</h3>
 
-<h1>Last updated: 6/21/23 9:33 AM EDT</h1>
+
+<h1>Last updated: 7/11/23 9:03 AM EDT</h1>
